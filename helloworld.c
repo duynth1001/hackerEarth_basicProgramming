@@ -5,7 +5,7 @@ int main()
     scanf("%d",&n);
     for (int i = 0; i < 10; i++)
     {
-        printf("Hello, i'm in this loop of i=%d\n",i);                
+        printf("This is version 2, i'm in this loop of i=%d\n",i);                
     }
 //This is a new update
 /*This is another new update!!!*/
